@@ -1,0 +1,123 @@
+{
+    "author": "itosue",
+    "dependencies": {},
+    "keywords": [],
+    "name": "calm",
+    "pebble": {
+        "displayName": "calm",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/sat.png",
+                    "name": "SAT",
+                    "type": "png"
+                },
+                {
+                    "file": "images/fri.png",
+                    "name": "FRI",
+                    "type": "png"
+                },
+                {
+                    "file": "images/thu.png",
+                    "name": "THU",
+                    "type": "png"
+                },
+                {
+                    "file": "images/wed.png",
+                    "name": "WED",
+                    "type": "png"
+                },
+                {
+                    "file": "images/tue.png",
+                    "name": "TUE",
+                    "type": "png"
+                },
+                {
+                    "file": "images/mon.png",
+                    "name": "MON",
+                    "type": "png"
+                },
+                {
+                    "file": "images/Sun.png",
+                    "name": "SUN",
+                    "type": "png"
+                },
+                {
+                    "file": "images/colon.png",
+                    "name": "COL",
+                    "type": "png"
+                },
+                {
+                    "file": "images/9.png",
+                    "name": "9",
+                    "type": "png"
+                },
+                {
+                    "file": "images/8.png",
+                    "name": "8",
+                    "type": "png"
+                },
+                {
+                    "file": "images/7.png",
+                    "name": "7",
+                    "type": "png"
+                },
+                {
+                    "file": "images/6.png",
+                    "name": "6",
+                    "type": "png"
+                },
+                {
+                    "file": "images/5.png",
+                    "name": "5",
+                    "type": "png"
+                },
+                {
+                    "file": "images/4.png",
+                    "name": "4",
+                    "type": "png"
+                },
+                {
+                    "file": "images/3.png",
+                    "name": "3",
+                    "type": "png"
+                },
+                {
+                    "file": "images/2.png",
+                    "name": "2",
+                    "type": "png"
+                },
+                {
+                    "file": "images/1.png",
+                    "name": "1",
+                    "type": "png"
+                },
+                {
+                    "file": "images/0.png",
+                    "name": "0",
+                    "type": "png"
+                },
+                {
+                    "file": "images/noise.png",
+                    "name": "NOISE",
+                    "type": "png-trans"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "119a3fa1-2554-4bf5-a817-99522392e1cc",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "2.0.0"
+}
